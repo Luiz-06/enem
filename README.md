@@ -33,15 +33,5 @@ O projeto possui os seguintes arquivos principais:
 - **`options.js`**: Contém as funções que realizam as consultas específicas, como a ordenação das escolas e cálculo das médias.
 - **`enem2014_nota_por_escola.txt.csv`**: Arquivo CSV contendo os dados das escolas.
 
-## Como Usar
 
-1. Clone o repositório para sua máquina local.
-2. Instale as dependências necessárias (caso haja alguma dependência externa, como o `fs` do Node.js).
-3. Execute o programa utilizando o comando `node index.js` no terminal.
-4. O menu será exibido, e você poderá escolher as opções digitando o número correspondente.
-5. Para sair, escolha a opção `100`.
-
-## Exemplo de Uso
-
-Ao rodar o programa, você verá o seguinte menu:
 
